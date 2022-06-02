@@ -1,7 +1,8 @@
 {
     "login": [{
-        "id": "1",
-        "senha": 1234,
-        "usuario": "Lucas"
+        "userName": "LucasOJ",
+        "email": "lucasoliveirajacintho@gmail.com",
+        "fullName": "Lucas Oliveira Jacintho",
+        "password": "123456"
     }]
 }
